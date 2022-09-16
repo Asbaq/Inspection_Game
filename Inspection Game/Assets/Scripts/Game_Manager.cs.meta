@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b58a6fd0e4548484ba4f08a81052b0b8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Garage: {fileID: 4428146775559496488, guid: 8532f6fb4c8cef24bbd70a9784ad2b76, type: 3}
+  - Canvas: {instanceID: 0}
+  - Car: {fileID: 3904546982606492964, guid: 3c67e7e19695314478c3b461927cf364, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
